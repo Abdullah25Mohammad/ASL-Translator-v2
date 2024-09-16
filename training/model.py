@@ -91,4 +91,4 @@ history = model.fit(datagen.flow(x_train, y_train, batch_size=256),  # Increased
                     callbacks=[lr_scheduler])  # Added learning rate scheduler
 
 # Save the model
-model.save('smnist_improved.h5')
+model.save('smnist.h5')
