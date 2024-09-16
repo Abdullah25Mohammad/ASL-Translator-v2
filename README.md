@@ -9,5 +9,9 @@ The neural network is a CNN that was trained on the Sign Language MNIST Dataset 
 The LiveDeterminer determines letters in real-time, but can be paired with a custom stringing algorithm to identify gaps in letters to automatically string letters into words. Taking the derivative of confidences allows the code to identify when a letter changes into another and logs it as a separation. Summing up the confidence matrices in between separations allows to find the top letter guesses.
 
 
-https://github.com/user-attachments/assets/e9040112-65d1-4968-a9ad-df9fc9dad9c5
+
+
+
+https://github.com/user-attachments/assets/8d18897f-5b9b-4f0e-8965-b8d6e5a66e07
+
 
